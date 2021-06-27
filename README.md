@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar Shubham
-- 👀 I’m interested in stalking girls on instagram and coding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on anything on js and css and their libraries and frameworks
+- 👀 I’m interested in project collaborations and coding related activities
+- 🌱 I’m currently learning react.js and node.js
+- 💞️ I’m looking to collaborate on anything on js and it`s libraries and frameworks
 - 📫 [@KumarShubham001](http://www.kumarshubham.in/)
